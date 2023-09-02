@@ -10,12 +10,12 @@ body {
     display: grid;
 }
 
-.sobre-mim {
+.eu {
     font-size: 28px;
     margin: 0 auto;
 }
 
-.padding {
+.expe {
     margin: 10px 30px 0px 30px;
 }
 
@@ -32,20 +32,14 @@ h2 {
     color: #58a6ff;
 }
 
-.textalign {
+.texto {
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
 }
 
-.textofino {
+.fino {
     font-weight: 200;
-}
-
-a, a:link, a:visited, a:hover {
-    color: #58a6ff;
-    text-decoration: none;
-    transition: color 0.3s ease;
 }
 
 hr {
